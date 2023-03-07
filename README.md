@@ -1,2 +1,2 @@
 # Professional_Certificate
-Project folder for Professional Data Certificate
+Project for Professional Data Certificate
