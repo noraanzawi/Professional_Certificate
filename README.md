@@ -1,2 +1,2 @@
 # Professional_Certificate
-Project for Professional Data Certificate
+Project for DataCamp Professional Data Certificate
