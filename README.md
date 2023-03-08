@@ -1,10 +1,12 @@
 # Data Analyst Professional Practical Exam Submission
-​
+Criteria for the project can be found below. To recreate the project, use the .ipybn notebook **nanzawi_data-analyst-professional.ipynb** along with the .csv and .geojson files in the **inputs** folder.
+
+
+## 📝 Task List for [project](https://s3.amazonaws.com/talent-assets.datacamp.com/Practical+-+DAP+-+Product+Sales.pdf#page=3&zoom=100,96,804)
+
 **You can use any tool that you want to do your analysis and create visualizations. Use this template to write up your summary for submission.**
 ​
 Slide deck used for presentation can be found [here](https://docs.google.com/presentation/d/1sXVjVKoreYaaTvIZeL02USTI305lF1bj3cNtAPhFT3Q/edit?usp=sharing).
-
-## 📝 Task List for [project](https://s3.amazonaws.com/talent-assets.datacamp.com/Practical+-+DAP+-+Product+Sales.pdf#page=3&zoom=100,96,804)
 
 Your written report should include written text summaries and graphics of the following:
 - Data validation:   
