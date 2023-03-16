@@ -1,6 +1,8 @@
 # Data Analyst Professional Practical Exam Submission
 Criteria for the project can be found below. To recreate the project, use the .ipybn notebook **nanzawi_data-analyst-professional.ipynb** along with the .csv and .geojson files in the **inputs** folder.
 
+See live here: https://noraanzawi.github.io/Professional_Certificate/
+
 
 ## 📝 Task List for [project](https://s3.amazonaws.com/talent-assets.datacamp.com/Practical+-+DAP+-+Product+Sales.pdf#page=3&zoom=100,96,804)
 
